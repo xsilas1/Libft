@@ -322,8 +322,3 @@ Thanks to the 42 / 1337 learning environment, peers, documentation authors, and 
 **Project:** Libft  
 **Library:** `libft.a`  
 **Author login:** `zaait-mo`
-markdown
-# Main title
-## Section title
-### Subsection title
-#### Smaller heading
